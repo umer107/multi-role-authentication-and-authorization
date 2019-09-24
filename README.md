@@ -7,6 +7,7 @@ Just Run the Database Script and Change the Web.Config and Run the Project
 Make Sure One thing Its always be in System.Web
 
   <system.web>
+  
     <authentication mode="Forms">
       <forms loginUrl="Accounts/Login"></forms>
     </authentication>
